@@ -5,6 +5,7 @@
 // Inclui a biblioteca para gerenciamento de temporizadores de hardware.
 #include "hardware/timer.h"
 
+
 #include "traffic_light/traffic_light.h"
 
 uint traffic_light_state = 0;
