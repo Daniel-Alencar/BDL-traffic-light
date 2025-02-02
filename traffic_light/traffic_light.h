@@ -7,7 +7,7 @@
 #define LED_GREEN_BDL 11
 #define LED_BLUE_BDL 12
 
-#define USE_BITDOGLAB 1
+#define USE_BITDOGLAB 0
 
 void setup_traffic_light() {
     gpio_init(LED_RED);
