@@ -8,6 +8,7 @@
 
 #include "traffic_light/traffic_light.h"
 
+// Controla os estados dos leds
 uint traffic_light_state = 0;
 
 // Função de callback que será chamada repetidamente pelo temporizador.
